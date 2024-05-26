@@ -1,2 +1,10 @@
 Añadida restricción de armas a nivel 2 para los usuarios, no se podrá utilizar armas hasta dicho nivel.
 Añadido nuevos mapeos de entorno.
+Añadido /entorno
+Añadido /camello
+Solucionado error de garages (pd, fd y sd) /gentrar /gsalir
+Solucionado error el /manos
+Cambiado el /ayuda
+Solucionados todos los jobs.
+Arreglado pequeño error en /ct
+Editado el verstats.
